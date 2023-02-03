@@ -1,0 +1,36 @@
+
+.main-section {
+    text-align: center;
+}
+
+.main-section__image {
+    width: 500px;
+    height: auto;
+}
+
+.main-section__list {
+    list-style-type: none;
+    
+}
+
+.main-section__list__item > a {
+
+    text-decoration: none;
+}
+
+.recipe__container {
+
+}
+
+.recipe__heading--large, .recipe__heading--medium, .recipe__heading--small {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.recipe__image {
+    width: 500px;
+    height: auto;
+}
+
+.recipe__list--unordered, .recipe__list--ordered {
+    list-style-type: none;
+}
