@@ -34,3 +34,8 @@
 .recipe__list--unordered, .recipe__list--ordered {
     list-style-type: none;
 }
+
+.recipe__list--ordered {
+
+    list-style-type: number;
+}
